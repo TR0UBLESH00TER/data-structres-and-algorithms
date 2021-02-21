@@ -1,7 +1,7 @@
 // Binary Search - Sorted Array
 
 search(Array, Element) {
-  /* Binary Search Algorithm implemented in Dart */
+  // Binary Search Algorithm implemented in Dart
   num mid;
   num low = 0;
   num high = Array.length - 1;

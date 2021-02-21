@@ -1,7 +1,7 @@
 // Binary Search - Sorted Array
 
 function search(Array,Element){
-    /* Binary Search Algorithm implemented in JS */
+    // Binary Search Algorithm implemented in JS
     let mid;
     let low = 0;
     let high = Array.length-1;
