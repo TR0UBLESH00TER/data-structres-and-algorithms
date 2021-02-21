@@ -1,3 +1,5 @@
+// Binary Search - Sorted Array
+
 search(Array, Element) {
   /* Binary Search Algorithm implemented in Dart */
   num mid;
