@@ -9,4 +9,5 @@ def BubbleSort(Array):
                 
     return Array
 
-print(BubbleSort([1,3,2,5,4,7,8,5,4,3,9,0]))
+
+print(BubbleSort([1, 3, 2, 5, 4, 7, 8, 5, 4, 3, 9, 0]))
