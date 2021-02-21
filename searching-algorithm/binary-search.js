@@ -4,7 +4,7 @@ function search(Array,Element){
     /* Binary Search Algorithm implemented in JS */
     let mid;
     let low = 0;
-    let high = Array.length;
+    let high = Array.length-1;
     while (low <= high) {
         mid = Math.floor((low + high)/2);
         if (Array[mid] == Element){
